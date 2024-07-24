@@ -1,0 +1,1 @@
+{"uuid":"8fc04094-992e-4e27-ba64-5791c8d61b39","name":"E2E Login Test","children":["e598de7b-5f6d-4e0d-b806-592828926aea"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1721392621284,"stop":1721392627342}],"afters":[],"start":1721392621088,"stop":1721392627957}
